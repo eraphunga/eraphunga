@@ -1,5 +1,3 @@
-<!-- Elegant Background Image for Female Coder -->
-![Elegant Female Coder](https://user-images.githubusercontent.com/ExampleImage/elegant-female-coder.jpg)
 
 <h1 align="center">Hi there, I'm Khatho Raphunga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <h3 align="center">Aspiring Data Analyst | She/Her</h3>
