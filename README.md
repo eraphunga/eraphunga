@@ -12,7 +12,7 @@
 
 ---
 
-### About Me
+# **About Me**
 
 I hold a Bachelor of Commerce Degree in Economics and a Bachelor of Commerce Honours Degree, which have equipped me with a strong foundation in analytical thinking and business economics. I recently completed a Data Science Bootcamp with Stellenbosch University and HyperionDev, enhancing my skills in Power BI, Tableau, SQL, Python, and Excel.
 
@@ -20,7 +20,7 @@ I’m passionate about applying data-driven insights to solve business problems 
 
 
 
-# **Skills:**
+## **Skills:**
 - Tableau: Data visualization
 - SQL: Data querying and manipulation
 - Python: Data analysis and automation
