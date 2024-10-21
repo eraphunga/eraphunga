@@ -14,7 +14,7 @@
 
 ### About Me
 
-I have recently completed my Data Science Bootcamp with Stellenbosch University and HyperionDev, and I am currently learning Power BI. I am actively seeking opportunities within the Data Analytics field.
+I hold a Bachelors of Commerce Degree in Economics as well as a Bachelor of Commerce Honours Degree. I have recently completed my Data Science Bootcamp with Stellenbosch University and HyperionDev, and I am currently learning Power BI. I am actively seeking opportunities within the Data Analytics field.
 
 ### Skills
 <p align="left">
