@@ -20,12 +20,11 @@ I’m passionate about applying data-driven insights to solve business problems 
 
 
 
-Skills:
-
-Tableau: Data visualization
-SQL: Data querying and manipulation
-Python: Data analysis and automation
-Excel: Advanced functions and data handling
+# **Skills:**
+- Tableau: Data visualization
+- SQL: Data querying and manipulation
+- Python: Data analysis and automation
+- Excel: Advanced functions and data handling
 
 Feel free to reach out for collaboration!
 
