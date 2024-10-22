@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Fun fact – I love eating Mopani worms, you are curious, this is the <a href="https://taste.co.za/recipes/mopane-stew-mashonzha/" target="_blank">cooked version</a>.</em>
+  <em>Fun fact – I love eating Mopani worms, if you are curious, this is the <a href="https://taste.co.za/recipes/mopane-stew-mashonzha/" target="_blank">cooked version</a>.</em>
 </p>
 
 ---
